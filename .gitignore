@@ -1,0 +1,6 @@
+# Política whitelist: deny-by-default.
+# Solo los archivos explícitamente permitidos abajo pueden commitearse.
+*
+!.gitignore
+!README.md
+!latest.json
