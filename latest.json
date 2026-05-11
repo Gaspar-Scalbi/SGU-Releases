@@ -1,12 +1,1 @@
-{
-  "version": "0.0.0",
-  "minVersion": "0.0.0",
-  "keyId": "PLACEHOLDER",
-  "binaryUrl": "PLACEHOLDER",
-  "binaryFilename": "PLACEHOLDER",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "releaseDate": "0001-01-01T00:00:00Z",
-  "releaseNotes": "Placeholder.",
-  "mandatory": false,
-  "firma": "PLACEHOLDER"
-}
+{"version":"1.0.1.0","minVersion":"1.0.1.0","keyId":"key-2026-05","binaryUrl":"https://github.com/Anzano-Logistica/SGU-Releases/releases/download/v1.0.1.0/SGU-1.0.1.0.exe","binaryFilename":"SGU-1.0.1.0.exe","sha256":"380075e95efbb2f30990f498cc33fc177b9f36a977489e4432f470d14850f5b0","releaseDate":"2026-05-11T17:04:52Z","releaseNotes":"Update SGU 1.0.1.0","mandatory":false,"firma":"IWCQpSQWHfGCEAwebC/deSKjOOXU5ERr5ieH9Fc6kwtojVinulr3oLSUUGK6EMloRmGumXMm6ti0AMDctcdhqF3egDDmEQz4nF88MbpSzVG3SQuCgDeLmv+GqsbvnMe1hUP0FgQ3sPnGDTfOmgsdco1GnD1esLsRK/7ocEUkJ+PwdsIlIgicBd4DNzHYG/m0pheEWwDXOwUZaj8FD0dwIpBIYf7H4QfVHyJ6pfh0Z1J6anXWbnxf/BMJfCjJtsBAnoC/B/RMSJrWgfua6Sa938iUMKoOaMDmlCYOzza2slQMiW7iWfNRzLbswWCfD1cYS+K/Vc3hwB1PAbafEs2UA1GGVlpXDr9kh4KRQp0laMfFya2QWDoDEll8sDeiw47gKEnumg4AcpoN4b/oZMBeI36RbUztXWKwUUhJtvEWtbLi0a6yHtN0/KPxSy5MiwWvVfihgkKJmQllYQWqcb2TkO6dOIoyCrugvvRI91KYGRWcfF9RGKM+eCzgOy/zE+7gMg6FpnXY0GOIq+cLYrWjmmr3PE4jiNh2FitAi2HriWszRku52FvYdg1SjwUiDtz/D4iLIKsOeOps+OZhdL2CV4wJzq0tTFCoM5m94z0k6PjJwAyyFDyHfLTsS+bbM8QvOsd40gRBpFciHsiD9X7EHBAnjJ0VKSbHpuMssYdw3zk=","canal":"stable","rolloutPercentage":100}
